@@ -20,11 +20,15 @@ Puoi visitare il mio sito web professionale (http://amatores.com) per vedere alc
 ## Competenze Principali
 
   - Creazione di pagine web statiche e dinamiche.
-  - Utilizzo di Bootstrap, Semantic UI e Tailwind CSS per uno sviluppo responsivo
-  - Sviluppo di interattività lato client e applicazioni web lato server.
-  - Uso di Express.js per creare server web e API RESTful.     
+  - Possesso di due Stack
+    - HTML, CSS, Bootstrap, tailwind, GSAP, Javascript, Typescript, PHP, SQL, Mysql.
+    - React, NextJS, NodeJS, Typescript, GeNYG, AWS, Material UI, REST, Redux, API, Jest, MongoDB.
+  - Utilizzo di Material UI, Bootstrap e Tailwind per uno sviluppo responsivo
+  - Utilizzo di Typescript per applicazioni più sicure e robuste.
+  - Sviluppo di interattività lato client e lato server.
+  - Uso di Express.js per creare server web e API REST. 
+  - Utilizzo del framework Next.js per l'integrazione di API.
   - Sviluppo di applicazioni web lato server.
-  - Utilizzo del framework Laravel per uno sviluppo strutturato.     
   - Gestione di database relazionali (MySQL/MariaDB) e non relazionali (MongoDB).
   - Progettazione e implementazione di query SQL.
 
