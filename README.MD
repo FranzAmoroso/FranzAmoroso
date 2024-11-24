@@ -15,7 +15,7 @@ La mia avventura nel mondo della programmazione è iniziata con una solida forma
 Sono appassionato nel creare soluzioni innovative e user-friendly, cercando costantemente di rimanere al passo con le ultime tendenze tecnologiche. 
 La mia determinazione e la curiosità mi spingono a superare sfide complesse e a continuare a crescere professionalmente. 
 Lavorare con me significa collaborare con un individuo appassionato e orientato al successo nel creare esperienze digitali straordinarie.
-Puoi visitare il mio sito web professionale (http://amatores.com) per vedere alcuni dei miei progetti e ottenere ulteriori dettagli sulla mia esperienza.
+<!-- Puoi visitare il mio sito web professionale (http://amatores.com) per vedere alcuni dei miei progetti e ottenere ulteriori dettagli sulla mia esperienza. -->
 
 ## Competenze Principali
 
