@@ -10,7 +10,7 @@ Benvenuto nel mio profilo GitHub! Sono uno sviluppatore appassionato con una vas
 
 <img
   src="https://api.dicebear.com/7.x/avataaars/svg?seed=Pepper&scale=110&radius=50&backgroundColor=b6e3f4&backgroundType=gradientLinear&accessoriesProbability=0&clothingGraphic[]&eyebrows=upDown&eyes=winkWacky&facialHair[]&facialHairColor[]&facialHairProbability=0&hairColor=2c1b18&hatColor[]&mouth=smile&skinColor=edb98a&style=default,circle&top=shortFlat,dreads01"
-  alt="avatar" width="100px"/><h4>Sono Franz Amoroso, Sviluppatore appassionato dell’ambito IT.</h4>
+  alt="avatar" width="100px"/><h4>Sono Franz Amoroso, studente del dipartimento di matematica e informatica, corso L-31 </h4>
 La mia avventura nel mondo della programmazione è iniziata con una solida formazione accademica in informatica, seguito da esperienze di lavoro che mi hanno permesso di affinare le mie competenze nello sviluppo web. 
 Sono appassionato nel creare soluzioni innovative e user-friendly, cercando costantemente di rimanere al passo con le ultime tendenze tecnologiche. 
 La mia determinazione e la curiosità mi spingono a superare sfide complesse e a continuare a crescere professionalmente. 
