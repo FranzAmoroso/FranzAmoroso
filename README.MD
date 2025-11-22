@@ -1,14 +1,13 @@
 # Profilo
 <img
   src="https://api.dicebear.com/9.x/adventurer/svg?seed=Amoroso&earrings[]&eyebrows=variant13&eyes=variant23&features[]&featuresProbability=20&glasses=variant04,variant05&glassesProbability=100&hair=short08&hairColor=562306&mouth=variant23&skinColor=ecad80"
-  alt="avatar" whith="50px" height="50px" />
-
+  alt="avatar" whith="250px" height="250px" />
 La mia avventura nel mondo della programmazione è iniziata con una solida formazione Universitaria in scienze informatiche, seguito da esperienze che mi hanno permesso di affinare le mie competenze. 
 Sono appassionato nel creare soluzioni innovative e user-friendly, cercando costantemente di rimanere al passo con le ultime tendenze tecnologiche. 
 La mia determinazione e la curiosità mi spingono a superare sfide complesse e a continuare a crescere professionalmente. 
 Lavorare con me significa collaborare con un individuo appassionato e orientato al successo nel creare esperienze digitali straordinarie.
 <!-- Puoi visitare il mio sito web professionale (http://amatores.com) per vedere alcuni dei miei progetti e ottenere ulteriori dettagli sulla mia esperienza. -->
-
+<br>
 ## Contatti
 
 <!-- - Sito Web: [amatores.com](http://amatores.com) -->
