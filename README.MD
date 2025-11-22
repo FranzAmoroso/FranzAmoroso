@@ -17,33 +17,6 @@ La mia determinazione e la curiosità mi spingono a superare sfide complesse e a
 Lavorare con me significa collaborare con un individuo appassionato e orientato al successo nel creare esperienze digitali straordinarie.
 <!-- Puoi visitare il mio sito web professionale (http://amatores.com) per vedere alcuni dei miei progetti e ottenere ulteriori dettagli sulla mia esperienza. -->
 
-## Competenze Principali
-
- - Creazione di Pagine Web Statiche e Dinamiche
-    - Progettazione e sviluppo di siti web con funzionalità dinamiche per una migliore interattività e esperienza utente.
-
- - Stack Tecnologico Web
-    - Front-End: HTML, CSS, Bootstrap, Tailwind, GSAP, JavaScript, TypeScript.
-    - Back-End: PHP, Node.js, Express.js, REST API, Jest.
-    - Database: MySQL, MariaDB, MongoDB.
-    - Frameworks e Librerie: React, Next.js, Redux, GeNYG, AWS, Material UI.
-    - Gestione API: Integrazione di API REST e sviluppo di API personalizzate.
-
-- ***Design Responsivo***
-    - Utilizzo di Material UI, Bootstrap e Tailwind per la creazione di interfacce utente adattabili a dispositivi mobili, tablet e desktop.
-
-- ***Sicurezza e Robustezza con TypeScript***
-    - Impiego di TypeScript per lo sviluppo di applicazioni web sicure e facili da mantenere, riducendo gli errori durante la fase di sviluppo.
-
-- ***Sviluppo Interattività e Dinamicità***
-    - Implementazione di funzionalità interattive sia lato client che lato server per garantire una user experience fluida e reattiva.
-
-- ***Back-End con Express.js e Next.js***
-    - Creazione di server web, API REST e integrazione di servizi backend utilizzando Express.js e Next.js, con focus sulla performance e sulla scalabilità.
-
-- ***Gestione e Progettazione di Database***
-    - Amministrazione e gestione di database relazionali (MySQL/MariaDB) e non relazionali (MongoDB), con progettazione e ottimizzazione di query SQL per il recupero e l'elaborazione dei dati.
-
 ## Contatti
 
 <!-- - Sito Web: [amatores.com](http://amatores.com) -->
