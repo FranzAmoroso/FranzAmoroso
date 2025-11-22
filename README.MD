@@ -6,6 +6,7 @@ I am passionate about creating innovative and user-friendly solutions, constantl
 My determination and curiosity drive me to overcome complex challenges and continue growing professionally.
 Working with me means collaborating with someone passionate, dedicated, and focused on delivering outstanding digital experiences.
 
+<br>
 I am always open to new collaboration opportunities and exciting projects. Feel free to get in touch!
 
 <!-- You can visit my professional website (http://amatores.com) to explore some of my projects and learn more about my experience. -->
